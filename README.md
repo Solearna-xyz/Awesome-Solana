@@ -11,7 +11,7 @@
 
 ### 各種英文 AweSome-Solana 連結
 > 請以最新更新日期，由新至舊排序，舊的也是個歷史見證！
- 關於來源的介紹，請保持在 50 字以內，避免過長。
+> 關於來源的介紹，請保持在 50 字以內，避免過長。
 - https://github.com/StockpileLabs/awesome-solana-oss
 > Last update  6 Apr 2024
  Stockpile.so 專門搜集開源的項目，也為項目眾籌
